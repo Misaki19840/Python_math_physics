@@ -1,4 +1,4 @@
-# Python_wordCloud_japanese
+# python_transformAxis
 
 There are a few points in global axis. Calc local positions of these points in local axis.
 
